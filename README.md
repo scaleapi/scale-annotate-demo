@@ -5,8 +5,6 @@ This app demonstrates what [Scale API's](https://www.scaleapi.com) [annotation e
 
 You can deploy it to Heroku yourself following the instructions below, and feel free to build on top of it to build your own image recognition applications.
 
-Scale is currently hosting [our own demo here](https://annotate-demo.scaleapi.com). Play around with it to understand what our API can do.
-
 Discuss it with us on Scale's Slack channel!
 
 [<img src="http://scalesupport.herokuapp.com/badge.svg">](https://scalesupport.herokuapp.com)
